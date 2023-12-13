@@ -11,7 +11,7 @@
 
 ✍️ Skills
   - Frontend: HTML, CSS, Bootstrap, JavaScript, React
-  - Backend: Node.js, Express, Django, MongoDB, SQL
+  - Backend: Django, SQL
   - Tools: Git, Bitbucket, VS Code, Postman
   - Other: Responsive Web Design, Agile Model, RESTful APIs
 
